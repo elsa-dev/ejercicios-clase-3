@@ -1,0 +1,29 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    font-size: 25px;
+}
+
+
+.date {
+    font-size: 8px;
+    color: gray;
+}
+
+.pendiente {
+    background-color: blue;
+}
+
+.haciendo {
+    background-color: orange;
+}
+
+.hecha {
+    background-color: green;
+}
+
+.cancelada {
+    background-color: red;
+} 

@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;800;900&display=swap');
+
+body {
+    background-color: #212121;
+}
+
+
+h1 {
+    font-family: montserrat;
+    font-size: 120px ;
+    font-weight: 900;
+    color: #fafafa;
+}
+
+p {
+    font-family: Montserrat;
+    font-size: 48px;
+    font-weight: 600;
+    color: #fafafa;
+}
+
+.red {
+    color: red;
+}
+
+.rebec {
+    color: rebeccapurple;
+}
+
+.pink {
+    color: fuchsia;
+}
+
+.green {
+    color: greenyellow;
+}

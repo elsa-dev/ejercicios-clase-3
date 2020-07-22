@@ -1,0 +1,34 @@
+h1 {
+    font-family: monospace;
+    font-size: 70px;
+}
+.gray {
+    color: rgb(199, 190, 190);
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+.font {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+
+a {
+    text-decoration: none;
+}
+
+.italic {
+    font-style: italic ;
+    }
+
+.bold {
+    font-weight: bold;
+}
+
+.italiccompleto {
+    font-family: 'Times New Roman';
+    font-style: italic;
+}
+   
+    

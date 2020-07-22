@@ -1,0 +1,75 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: gray;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+.white1 {
+    background-color:#ffffff;
+}
+
+.black1 {
+    color: white;
+    background-color: #000000;
+}
+
+.red1 {
+    background-color: #ff0000;
+}
+
+.green1 {
+    background-color: #00ff00;
+}
+
+.blue1 {
+    background-color: #0000ff;
+}
+
+
+.white2 {
+    background-color:rgb(255, 255, 255);
+}
+
+.black2 {
+    color: white;
+    background-color: rgb(0, 0, 0);
+}
+
+.red2 {
+    background-color: rgb(255, 0, 0);
+}
+
+.green2 {
+    background-color: rgb(0, 255, 0);
+}
+
+.blue2 {
+    background-color: rgb(0, 0, 255);
+}
+
+/* 
+ */
+
+ .white3 {
+    background-color:hsl(0, 0%, 100%);
+}
+
+.black3 {
+    color: white;
+    background-color: hsl(0, 0%, 0%);
+}
+
+.red3 {
+    background-color: hsl(0, 100%, 50%);
+}
+
+.green3 {
+    background-color: hsl(106, 100%, 50%);
+}
+
+.blue3 {
+    background-color: hsl(231, 100%, 28%);
+}
